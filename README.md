@@ -1,0 +1,1 @@
+# gitops-generate-rules-processor
